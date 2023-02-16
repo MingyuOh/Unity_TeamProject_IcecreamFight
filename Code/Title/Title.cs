@@ -1,0 +1,50 @@
+﻿using NCMB;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.SceneManagement;
+
+
+public class Title : MonoSingleton<Title> {
+
+	// Use this for initialization
+	void Start () {
+		
+	}
+	
+	// Update is called once per frame
+	void Update () {
+		
+	}
+
+	/////////////////////////////////////////////////////////////////////////////////////
+	// 타이틀 화면에서의 오류 처리(콜백함수)
+	/////////////////////////////////////////////////////////////////////////////////////
+	public void ForceToTitle(NCMBException execption = null)
+	{
+		if(execption != null)
+		{
+            // 오류이유 디스플레이 해주어야한다.
+            TitleMgr.Instance.ShowErrorPanel();
+        }
+
+		// 타이틀 화면으로 돌아감
+		//OnTitle();
+	}
+
+	/////////////////////////////////////////////////////////////////////////////////////
+	// 타이틀 씬 로드
+	/////////////////////////////////////////////////////////////////////////////////////
+	public void OnTitle()
+	{
+		SceneManager.LoadScene("TestTitle", LoadSceneMode.Single);
+	}
+
+	/////////////////////////////////////////////////////////////////////////////////////
+	// 메인씬 로드
+	/////////////////////////////////////////////////////////////////////////////////////
+	public void OnMain()
+	{
+		SceneManager.LoadScene("TestMain", LoadSceneMode.Single);
+	}
+}
