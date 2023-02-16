@@ -1,4 +1,4 @@
-# IcecreamFight
+# Icecream Fight
 ## 📙목차
 - 📝 [개요](#-개요)
 - 🏆 [목표](#-목표)
