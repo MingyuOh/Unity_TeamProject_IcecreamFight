@@ -1,4 +1,4 @@
-# DirectX_3D_TeamProject_BlackDeath
+# IcecreamFight
 ## 📙목차
 - 📝 [개요](#-개요)
 - 🏆 [목표](#-목표)
@@ -8,10 +8,10 @@
 - 🖼️ [스크린샷](#%EF%B8%8F-스크린샷)
 
 ## 📝 개요
-<img src="https://user-images.githubusercontent.com/16281218/219336813-4d093d21-f07b-4744-a26d-8d5ecd998f8a.png" width="800" height="600"/>    
+<img src="https://user-images.githubusercontent.com/16281218/219337635-9cb46c60-1be7-460c-8676-d40ed149814d.png" width="800" height="600"/>    
 
 > - 프로젝트: Unity를 이용하여 아이스크림을 던
-> - 기획 및 제작: 오민규외 1명(클라이언트 1명)   
+> - 기획 및 제작: 오민규 외 1명(클라이언트 1명)    
 > - 분류: 팀 프로젝트   
 > - 제작 기간: 60일    
 > - 게임 소개:   
