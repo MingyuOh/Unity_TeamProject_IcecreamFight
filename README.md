@@ -30,10 +30,9 @@
 ## 🛠 기술 및 도구   
 &emsp;<img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&&logo=Csharp&logoColor=white"/> 
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&&logo=unity&logoColor=white"/> 
-https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white
-<img src="https://img.shields.io/badge/-DirectX-black?style=flat-square&&logo=Microsoft&logoColor=white"/> 
-<img src="https://img.shields.io/badge/-SVN-red?style=flat-square&&logo=Microsoft&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&&logo=Visual Studio&logoColor=white"/>    
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&&logo=Visual Studio&logoColor=white"/> 
+<img src="https://img.shields.io/badge/-Photon-blue?style=flat-square&&logo=&logoColor=white"/> 
+<img src="https://img.shields.io/badge/-NCMB-blue?style=flat-square&&logo=Microsoft&logoColor=white"/>  
 
 ## 🧑‍💻 개발 문서
 &emsp;[개발 문서 확인하기](https://github.com/MingyuOh/Unity_TeamProject_IcecreamFight/tree/main/Document)
