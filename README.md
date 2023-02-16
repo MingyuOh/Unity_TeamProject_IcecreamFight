@@ -28,7 +28,7 @@
 
 
 ## 🛠 기술 및 도구   
-&emsp;<img src="https://img.shields.io/badge/C#-239120?style=flat-square&&logo=C Sharp&logoColor=white"/> 
+&emsp;<img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&&logo=Csharp&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Window API-0078D6?style=flat-square&&logo=Windows&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-DirectX-black?style=flat-square&&logo=Microsoft&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-SVN-red?style=flat-square&&logo=Microsoft&logoColor=white"/> 
