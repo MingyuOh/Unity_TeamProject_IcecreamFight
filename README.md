@@ -10,26 +10,25 @@
 ## 📝 개요
 <img src="https://user-images.githubusercontent.com/16281218/219337635-9cb46c60-1be7-460c-8676-d40ed149814d.png" width="800" height="600"/>    
 
-> - 프로젝트: Unity를 이용하여 아이스크림을 던
+> - 프로젝트: Unity를 이용하여 아이스크림을 던져 상대방(멀티플레이) 또는 AI(싱글플레이)와 대전하는 3D 게임
 > - 기획 및 제작: 오민규 외 1명(클라이언트 1명)    
 > - 분류: 팀 프로젝트   
 > - 제작 기간: 60일    
 > - 게임 소개:   
-> &emsp;DirectX를 이용하여 게임을 제작할 때, 게임 프로젝트에서 직접 이펙트를 생성하는 것이 아닌 게임에서 사용되는        
-> &emsp;이펙트 리소스를 기획에 맞춰서 제작하기 위하여 DirectX와 MFC를 이용하여 이펙트 툴을 제작한다.    
-> &emsp;사용자가 이펙트 개체를 쉽게 제작하기 위해 MFC를 이용하여 텍스트 입력 박스와 버튼 등의 UI를 제공한다.    
-> &emsp;사용자에게 이펙트 데이터(위치, 방향, 속도 등)를 입력하도록 하여 더 쉽고 간편하게 이펙트를 제작할 수 있도록 한다.       
+> &emsp;        
+> &emsp; 
+> &emsp;   
+> &emsp;     
 
 ## 🏆 목표      
-- 5명이 DirectX를 활용하여    
-- DirectX 3D 게임 프로젝트를 진행하기 이전에, 게임에서 사용할 이펙트 개체들을 직접 만들기 위해 개발한 게임 엔진과 MFC를 이용하여 이펙트 툴을 제작한다.    
+- 세종대학교 4학년 2학기 창의학기제 과제로 실제 서비스를 목표로 게임을 개발하는것이다.
+- 게임 개발 이외에 창업 관련   
 - 해당 툴을 사용하는 다른 사용자들이 이펙트를 제작하기 편리하도록 툴 기능을 최소화하여 UI를 배치하였다.    
 - 이펙트를 제작하기 위한 기본적인 기능(생성, 추가, 삭제, 수정, 저장, 불러오기 등)을 구현하여 사용자가 원하는 이펙트를 생성할 수 있도록 한다.    
 
 
 ## 🛠 기술 및 도구   
-&emsp;<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&&logo=c&logoColor=white"/> 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&&logo=cplusplus&logoColor=white"/> 
+&emsp;<img src="https://img.shields.io/badge/C#-239120?style=flat-square&&logo=CSharp&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Window API-0078D6?style=flat-square&&logo=Windows&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-DirectX-black?style=flat-square&&logo=Microsoft&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-SVN-red?style=flat-square&&logo=Microsoft&logoColor=white"/> 
